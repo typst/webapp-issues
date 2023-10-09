@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📝 Compiler Issues
+    url: https://github.com/typst/typst/issues
+    about: Bug reports or feature requests for the Typst language or compiler that are not specific to the web app.
+  - name: 💬 Typst Discord
+    url: https://discord.gg/2uDybryKPe
+    about: Get answers to your questions about Typst on our Discord server.
+  - name: 🗣️ Discussions on GitHub
+    url: https://github.com/typst/webapp-issues/discussions
+    about: Do you have a question instead of a specific bug or feature request? Open a discussion thread!
