@@ -14,8 +14,8 @@ the Typst language or compiler instead, please [open an issue here][compiler].
   sustain itself long-term.
 
 - **Can I self-host the web app?** \
-  Currently, you cannot self-host the web app. However, we plan to offer a paid
-  on-premise version in the future.
+  Yes! We offer a paid on-premises version for organizations. If this is
+  interesting for you or your team, please reach out to us at <hello@typst.app>.
 
 - **Will there be a desktop app?** \
   We plan to provide a desktop version of the web app down the road, but can't
