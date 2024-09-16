@@ -5,8 +5,8 @@ the Typst language or compiler instead, please [open an issue here][compiler].
 
 ## FAQ
 - **Will the web app remain free?** \
-  The web app will always have a free tier. However, we will also add paid plans
-  in the future.
+  The web app will always have a free tier. However, there is also a paid plan
+  with additional features like Comments and Git sync.
 
 - **Is the web app open source?** \
   The web app is not open source. We think open-sourcing the compiler and
@@ -30,3 +30,4 @@ the Typst language or compiler instead, please [open an issue here][compiler].
 [app]: https://typst.app
 [compiler]: https://github.com/typst/typst
 [privacy policy]: https://typst.app/privacy
+[paid plan]: https://typst.app/pricing
